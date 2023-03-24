@@ -12,7 +12,7 @@
     .jumbotron {
         width: 1080px;
         height: 500px;
-        background-image: url(./img/pic.jpg);
+        background-image: url(../assets/pic.jpg);
         background-size: contain;
         background-repeat: no-repeat;
     }
